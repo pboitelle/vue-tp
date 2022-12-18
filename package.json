@@ -9,7 +9,6 @@
     "test:unit": "vitest --environment jsdom --root src/"
   },
   "dependencies": {
-    "formik": "^2.2.9",
     "vue": "^3.2.45"
   },
   "devDependencies": {
